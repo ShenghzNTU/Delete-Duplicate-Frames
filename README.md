@@ -8,12 +8,11 @@ ffmpeg -i PATH_OF_SOURCE_FILE.mp4 -vf mpdecimate,setpts=N/FRAME_RATE/TB PATH_OF_
 So now this repository is used for keeping codes for future needs.
 
 
-## Prerequisites
+## Prerequisites for running the above command:
 
-Prerequisites for running the above command:
-- ffmpeg
 
-Prerequisites for runing the program:
+
+## Prerequisites for runing the codes:
 
 - Python 3.x
 - OpenCV library for Python (`opencv-python`)
