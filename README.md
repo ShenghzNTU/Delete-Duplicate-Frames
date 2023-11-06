@@ -10,6 +10,7 @@ So now this repository is used for keeping codes for future needs.
 
 ## Prerequisites for running the above command:
 
+- ffmpeg
 
 
 ## Prerequisites for runing the codes:
