@@ -5,6 +5,7 @@
 ffmpeg -i PATH_OF_SOURCE_FILE.mp4 -vf mpdecimate,setpts=N/FRAME_RATE/TB PATH_OF_OUTPUT_FILE.mp4
 ~~~
 
+Please change the `PATH_OF_SOURCE_FILE.mp4` and `PATH_OF_OUTPUT_FILE.mp4` according to your file names.
 So now this repository is used for keeping codes for future needs.
 
 
